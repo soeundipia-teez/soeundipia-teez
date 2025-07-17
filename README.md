@@ -65,5 +65,6 @@ SSAFY는 1년 동안 몰입해 공부하고 성장할 수 있는 기회라 생�
 ---
 
 <p align="center">  
-  SSAFY 14기 · 김소은 · 2025  
+  SSAFY 14기 · 김소은 · 2025 
+  ildlisa@naver.com
 </p>
