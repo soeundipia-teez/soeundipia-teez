@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Welcome&fontSize=50&animation=twinkling&fontAllign=68&fontAlignY=36)
 
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soeundipia-teez&layout=compact)](https://github.com/soeundipia-teez/github-readme-stats)
@@ -8,4 +8,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=beyondtheclouds)](https://solved.ac/beyondtheclouds)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=beyondtheclouds&theme=warm)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=footer" />
