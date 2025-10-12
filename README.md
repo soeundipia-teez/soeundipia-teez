@@ -3,9 +3,7 @@
     </div>
     
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soeundipia-teez&layout=compact)](https://github.com/soeundipia-teez/github-readme-stats)
-&nbsp;&nbsp;
+    
 [![GitHub Streak](https://streak-stats.demolab.com?user=soeundipia-teez)](https://git.io/streak-stats)
 
 </div>
