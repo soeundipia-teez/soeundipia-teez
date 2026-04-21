@@ -14,14 +14,7 @@
 </a>
 </div>
 
-<div align="center">
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=beyondtheclouds)](https://solved.ac/beyondtheclouds) 
-&nbsp;&nbsp;
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=beyondtheclouds&theme=warm)
-
-</div>
-    <div style="text-align: left;">
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks I'm studying and interested in... </h2> <br> 
     <div  align= "center">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
